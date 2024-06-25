@@ -1,1 +1,1 @@
-# demoppu
+First and foremost, you need an idea for your project. The scope constraints make it tricky to find something that is simultaneously interesting and simple. A common approach is to either make a simple clone of a known application or to follow somebody's idea for a demoppu
